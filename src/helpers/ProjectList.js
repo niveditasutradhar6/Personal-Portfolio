@@ -13,8 +13,8 @@ export const ProjectList = [
     name: "Order Forecaster",
     image: order,
     skills: "Machine Learning(Decision Tree and Random Forest Algorithms)",
-    URL: "",
-    LiveDemo: "https://drive.google.com/file/d/198pJt4sC5-6wE1Fo8EmhxZwQYJLs7O5l/view?usp=sharing",
+    URL: "https://github.com/niveditasutradhar6/OrderForecaster",
+    LiveDemo: "http://localhost:8889/notebooks/OrderForecaster.ipynb",
     
    
   },
@@ -22,17 +22,18 @@ export const ProjectList = [
     name: "DiaVision",
     image: diavision,
     skills: "Machine Learning(Decision Tree and Random Forest Algorithms)",
-    URL: "",
-    LiveDemo: "hhttps://drive.google.com/file/d/14Z4HM-AH_PazZuDEMnTPN1GwpyNouqNn/view?usp=sharing",
+    URL: "https://github.com/niveditasutradhar6/DiaVision",
+    LiveDemo: "http://localhost:8889/notebooks/DiaVision.ipynb",
+    
     
    
   },
   {
     name: "GrowGuide",
     image: crop,
-    skills: "Machine Learning(Ensemble Learning Techniques)",
-    URL:"",
-    LiveDemo: "https://drive.google.com/file/d/12jgZg9LSzvuKRHGTjhjq-Szhltuu6hEF/view?usp=sharing",
+    skills: "Machine Learning(Ensemble Learning Techniques)", 
+    URL: "https://github.com/niveditasutradhar6/GrowGuide",
+    LiveDemo:"http://localhost:8889/notebooks/GrowGuide.ipynb",
     
     
   },
