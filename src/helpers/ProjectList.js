@@ -44,7 +44,7 @@ export const ProjectList = [
     name: "Pokemon Web App",
     image: pokemon,
     skills: "HTML,CSS, JavaScript, Pokemon API",
-    URL:"hhttps://github.com/niveditasutradhar6/Pokemon-Web-App",
+    URL:"https://github.com/niveditasutradhar6/Pokemon-Web-App",
     LiveDemo: "https://niveditasutradhar.github.io/Web-App/",
   },
   
