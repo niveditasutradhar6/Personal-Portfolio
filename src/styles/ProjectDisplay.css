@@ -1,11 +1,11 @@
-/* Project section */
+
 .project {
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  margin-bottom: 50px; /* Add some bottom margin to separate projects */
+  margin-bottom: 50px; 
 }
 
 .project h1 {
@@ -52,7 +52,7 @@ button:hover {
   color: black;
 }
 
-/* Media query for screens smaller than 768px */
+
 @media screen and (max-width: 767px) {
   .project h1 {
     font-size: 28px;
