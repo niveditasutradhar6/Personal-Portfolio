@@ -1,4 +1,4 @@
-/* Updated CSS styles with image centering and spacing */
+
 .skills {
   display: flex;
   flex-direction: column;
@@ -18,10 +18,10 @@
   width: 45%;
   margin: 40px auto;
   text-align: left;
-  padding: 20px; /* Added padding for spacing after the title and description */
+  padding: 20px; 
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
   transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
-  background-color: #00FFFF; /* Changed background color to cyan (#00FFFF) */
+  background-color: #00FFFF; 
   display: flex;
   align-items: center;
 }
@@ -74,7 +74,7 @@ h2 {
   transform: scale(1.1);
 }
 
-/* Media query for screens smaller than 768px */
+
 @media only screen and (max-width: 768px) {
   .skill-row {
     width: 90%;
