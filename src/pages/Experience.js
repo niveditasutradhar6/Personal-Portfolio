@@ -93,7 +93,7 @@ function Experience() {
           <h4 className="vertical-timeline-element-subtitle">
             Information Systems Trainee
           </h4>
-          <p>Worked on a vehicle/device locator system that allows to retrieve real time location of the vehicle or device using geolocation API and plot it in google maps using google maps API key. 
+          <p>Worked on a vehicle/device locator system that allows to retrieve real time location of the vehicle or device using geolocation API and plotting it on Google Maps using API key. 
 
 </p>
           
@@ -108,10 +108,10 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-          Indian Oil Corporation Limited,Guwahati,Assam
+          AICTE
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Information Systems Trainee
+            AWS Data Analytics Intern
           </h4>
           <p>Learnt about several topics, such as data extraction, transformation, loading (ETL), data warehousing, data visualization, machine learning snd AWS tools like Amazon S3, Sagemaker, Bokeh, Athena, Glue, Redshift. The goal is to familiarize myslef with the AWS ecosystem and equip myself with the skills needed to work with data in the cloud.
 
