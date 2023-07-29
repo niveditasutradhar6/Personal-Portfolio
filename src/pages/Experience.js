@@ -93,7 +93,7 @@ function Experience() {
           <h4 className="vertical-timeline-element-subtitle">
             Information Systems Trainee
           </h4>
-          <p>Worked on a vehicle/device locator system that allows to retrieve real time location of the vehicle or device and stores its coordinates in a real time database as well as plotting it in Google Maps using API. 
+          <p>Worked on a vehicle/device locator system that allows to retrieve real time location of the vehicle or device using geolocation API and plot it in google maps using google maps API key. 
 
 </p>
           
